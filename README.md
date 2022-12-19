@@ -1,3 +1,3 @@
-# my-first-react-app
-trying out react
-g
+# my first react app
+
+
